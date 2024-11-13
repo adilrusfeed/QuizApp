@@ -43,6 +43,7 @@ class Home extends StatelessWidget {
                             ]),
                         child: const Padding(
                           padding: EdgeInsets.symmetric(horizontal: 18),
+                        
                           child: Column(
                             children: [
                               Row(
